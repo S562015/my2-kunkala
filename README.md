@@ -14,3 +14,8 @@ Andorra, is a beautiful **land-locked** country located in *__Pyrenees mountains
 1. Skiing
 2. Site seeing
 3. Shopping
+
+### My Favourite food to try at Andorra
+- Escudella
+- Crema catalana
+- Coca
