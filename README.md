@@ -32,3 +32,12 @@ Sports plays a major role in our lives. Some sports helps in improving Physical 
 |Cycling|Good for Blood circulation|2|
 |Soccer|Team spirit and helps in working as team|4|
 |Skating|Improves concentration levels and balance|4|
+
+---
+### Pithy Quotes by Scientists
+
+> **Not only is the Universe stranger than we think, it is stranger than we can think.**
+>> _Werner Heisenberg_
+
+> **The future belongs to those who believe in the beauty of their dreams**
+>> _Eleanor Roosevelt_
