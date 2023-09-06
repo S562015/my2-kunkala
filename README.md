@@ -19,3 +19,5 @@ Andorra, is a beautiful **land-locked** country located in *__Pyrenees mountains
 - Escudella
 - Crema catalana
 - Coca
+
+[Click here](./MyStats.md) to find more about me.
