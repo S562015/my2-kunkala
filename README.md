@@ -41,3 +41,16 @@ Sports plays a major role in our lives. Some sports helps in improving Physical 
 
 > **The future belongs to those who believe in the beauty of their dreams**
 >> _Eleanor Roosevelt_
+
+---
+### Code Fencing
+```js
+const arr = ["This", "Little", "Piggy"];
+const first = arr.pop();
+console.log(first);
+```
+[find code snippet here](https://css-tricks.com/snippets/javascript/getting-first-and-last-items-in-array-and-splitting-all-the-rest/)
+
+
+> **When calling this .pop method to an array, why am I getting an unexpected .length result?**
+>> [check article on stackoverflow](https://stackoverflow.com/questions/59997769/when-calling-this-pop-method-to-an-array-why-am-i-getting-an-unexpected-lengt)
